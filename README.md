@@ -1,0 +1,1 @@
+This is a practice project to build a basic recipe website. This project will demonstrate the ability to create a website with an index page that contains links and images.
